@@ -22,7 +22,7 @@ const typed = new Typed('.multiple-text', {
 
     //typing AnimationAbout
   const typed2= new Typed('.multiple-texts', {
-    strings: ['Web Developer', 'Web Design'],
+    strings: ['Web Developer', 'Web Designer'],
     typeSpeed: 80,
     backSpeed: 80,
     backDelay: 1200,
